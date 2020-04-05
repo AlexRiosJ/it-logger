@@ -1,0 +1,40 @@
+{
+    "logs": [{
+            "id": 1,
+            "message": "Everything working now (hard drive changed)",
+            "attention": false,
+            "date": "03-04-2020",
+            "tech": "Sam Watson"
+        },
+        {
+            "id": 2,
+            "message": "Workstation 003 not posting",
+            "attention": true,
+            "date": "03-02-2020",
+            "tech": "John Doe"
+        },
+        {
+            "id": 3,
+            "message": "Change memory in workstation 069",
+            "attention": false,
+            "date": "03-02-2020",
+            "tech": "Sara Connor"
+        }
+    ],
+    "techs": [{
+            "id": 1,
+            "fisrtName": "John",
+            "lastName": "Doe"
+        },
+        {
+            "id": 2,
+            "fisrtName": "Sam",
+            "lastName": "Watson"
+        },
+        {
+            "id": 3,
+            "fisrtName": "Sara",
+            "lastName": "Connor"
+        }
+    ]
+}
