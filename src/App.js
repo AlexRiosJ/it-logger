@@ -10,7 +10,7 @@ const App = () => {
 	useEffect(() => {
 		// Init Materialize JS
 		M.AutoInit();
-	}, []);
+	});
 	return (
 		<Fragment>
 			<SearchBar />
