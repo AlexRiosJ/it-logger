@@ -18,8 +18,8 @@
       "id": 3,
       "message": "1122 Wireless down",
       "attention": true,
-      "tech": "Sam Smith",
-      "date": "2020-04-08T20:15:42.801Z"
+      "tech": "Sam Watson",
+      "date": "2020-04-08T21:02:59.595Z"
     }
   ],
   "techs": [
@@ -37,6 +37,16 @@
       "id": 3,
       "firstName": "Sara",
       "lastName": "Connor"
+    },
+    {
+      "firstName": "Alejandro",
+      "lastName": "Rios",
+      "id": 4
+    },
+    {
+      "firstName": "Lu",
+      "lastName": "Moreno",
+      "id": 5
     }
   ]
 }
